@@ -1,0 +1,10 @@
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
